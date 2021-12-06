@@ -2,6 +2,7 @@
 
 <?php
 
+//user must enter-> username="ltecu", password="asdfgh" to gain access to the NASA API search page, search.php
 
 session_start();
 
